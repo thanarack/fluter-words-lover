@@ -1,7 +1,4 @@
-# flutter_application_1
-
-A new Flutter project.
-# fluter-words-lover
+# Application words lover
 
 ![image](https://github.com/thanarack/fluter-words-lover/assets/10512885/62177fd1-01cd-4abc-9420-5268e72ce330)
 
