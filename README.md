@@ -8,4 +8,15 @@
 
 ![image](https://github.com/thanarack/fluter-words-lover/assets/10512885/36404876-528a-4939-a030-5bfaf6674368)
 
+
+### How to run app
+
+1. Clone or download this repository.
+
+2. Open terminal and navigate to project directory.
+
+3. Run command `flutter pub get` to install dependencies.
+
+4. Run command `flutter run` to start app.
+
 ### ❤️ made by flutter
