@@ -12,7 +12,8 @@
 
 
 ### Video
-![ezgif-1-6174362632](https://github.com/thanarack/flutter-words-lover/assets/10512885/82391087-5790-43c5-baed-2abdfc120ae2)
+![20240526125358 (1)](https://github.com/thanarack/flutter-words-lover/assets/10512885/53b7596b-99e9-4506-9372-78d0a5d12187)
+
 
 
 ### How to run app
