@@ -11,6 +11,10 @@
 ![image](https://github.com/thanarack/fluter-words-lover/assets/10512885/36404876-528a-4939-a030-5bfaf6674368)
 
 
+### Video
+![ezgif-1-6174362632](https://github.com/thanarack/flutter-words-lover/assets/10512885/82391087-5790-43c5-baed-2abdfc120ae2)
+
+
 ### How to run app
 
 1. Clone or download this repository.
