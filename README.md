@@ -1,5 +1,7 @@
 # Application words lover
 
+### Screens shot
+
 ![image](https://github.com/thanarack/fluter-words-lover/assets/10512885/62177fd1-01cd-4abc-9420-5268e72ce330)
 
 
